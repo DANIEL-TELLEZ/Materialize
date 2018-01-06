@@ -1,0 +1,51 @@
+body{
+	background-image: url(http://www.ballenaswiki.com/Imagenes/ballena-azul-ballena-ma-grande-del-mundo.jpg);
+	
+}
+
+header{
+	margin-top: 10px;
+}
+
+.iconos{
+	width: 40px;
+}
+
+.img1{
+	
+	height: 100px;
+
+}
+
+.img2{
+	
+	height: 200px;
+}
+.img3{
+
+height: 400px;
+}
+
+.img4{
+	
+	height: 200px;
+}
+
+.img5{
+	
+height: 300px;
+}
+
+.lgo{
+	width: 100px;
+}
+
+.tañoimg{
+	width: 90%;
+	height: 90%;
+
+}
+
+.margtop{
+	margin-top: 10px;
+}
